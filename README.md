@@ -44,6 +44,4 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bittiboop&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%A4%96%20Copilot-blueviolet?style=flat-square" alt="Copilot badge" />
 </p>
