@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- Banner / Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78407&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Bittiboop+%F0%9F%91%8B;Visual+Software+Engineer;Loves+Flutter+and+creative+UIs;Learning+Korean+%E2%9C%A8;Let's+connect!+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78407&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Bittiboop+%F0%9F%91%8B;Software+Engineer;Loves+Front-end;Learning+Korean+%E2%9C%A8;Let's+connect!+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
@@ -10,7 +10,6 @@
 - 💻 **Software Engineer** with a passion for visual and creative programming (Flutter, UI/UX).
 - 🎨 Enjoy building beautiful things with code—if it moves or animates, I love it!
 - 🏳️‍🌈 Multilingual: Native Ukrainian 🇺🇦, English B2 🇬🇧, Learning Korean 🇰🇷.
-- 😂 Enjoys funny/cute banners and stats on profiles.
 
 <!-- Social Links -->
 ### 🌍 Connect with Me
@@ -32,13 +31,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittiboop&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
-
-<!-- Fun Section -->
-### 🎉 Fun & Random
-
-- 🖌️ Ask me about making UIs pop—Flutter, CSS, SVG, you name it!
-- 🕹️ Sometimes I make coding memes or funny banners just for fun.
-- 💬 Fluent in emoji.
 
 ---
 
